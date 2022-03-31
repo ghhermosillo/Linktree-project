@@ -98,7 +98,7 @@ h3 a:hover {
 }
 @media screen and (max-width: 768px) {
   .btn {
-    max-width: 450px;
+    max-width: 350px;
     max-height: 80px;
   }
 }
